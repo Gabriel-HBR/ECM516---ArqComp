@@ -1,0 +1,8 @@
+/* Ler da direita pra esquerda */
+article p{
+    padding: 12px;
+    background-color: lightgray;
+}
+article > p{
+    border: 1px solid black;
+}

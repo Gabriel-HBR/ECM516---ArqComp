@@ -1,0 +1,17 @@
+#titulo{
+    color:blue;
+}
+.descricao{
+    color:green;
+}
+p{
+    color:red;
+}
+
+main, article{
+
+}
+
+#teste body > .c1 .c2 > div > div > div > p > .c2.c3.c4#abc > p > p p p p p > div .classeFinal .ufa{
+
+}
